@@ -6,7 +6,7 @@
       "strict": true,
       "esModuleInterop": true
     },
-    "include": ["src/**/*.ts","src/**/*.json"],
+    "include": ["src/**/*.ts","src/**/*.json", "tests/*.ts"],
     "exclude": ["node_modules"]
   }
   
